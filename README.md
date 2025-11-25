@@ -2,9 +2,10 @@
 
 ---
 
+<div align="center" width="80%">
 # 👋 Hi there, I'm **Linh**!  
+
 🔥 *A motivated student developer who enjoys turning ideas into working products — and occasionally breaking things on purpose to learn faster.*
-<div align="center">
 
   <!-- Gmail -->
   <a href="mailto:linhnguyenngoc.nnl@gmail.com" target="_blank">
@@ -17,6 +18,7 @@
   </a>
 
 </div>
+
 ---
 
 # 🛠️ Tech Stack
