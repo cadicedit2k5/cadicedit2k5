@@ -2,13 +2,14 @@
 
 ---
 
-<h1 align="center">👋 Hi there, I'm <strong>Linh</strong>!</h1>
+<div align="center" style="max-width: 80%; margin: auto;">
 
-<p align="center">
-🔥 <em>A motivated student developer who enjoys turning ideas into working products — and occasionally breaking things on purpose to learn faster.</em>
-</p>
+  <h1>👋 Hi there, I'm <strong>Linh</strong>!</h1>
 
-<div align="center">
+  <p>
+    🔥 <em>A motivated student developer who enjoys turning ideas into working products — 
+    and occasionally breaking things on purpose to learn faster.</em>
+  </p>
 
   <!-- Gmail -->
   <a href="mailto:linhnguyenngoc.nnl@gmail.com" target="_blank">
