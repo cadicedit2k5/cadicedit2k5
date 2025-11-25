@@ -4,34 +4,20 @@
 
 # 👋 Hi there, I'm **Linh**!  
 🔥 *A motivated student developer who enjoys turning ideas into working products — and occasionally breaking things on purpose to learn faster.*
+<div align="center">
 
+  <!-- Gmail -->
+  <a href="mailto:linhnguyenngoc.nnl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nnl-linh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+</div>
 ---
 
 # 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,java" />
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
 ---
