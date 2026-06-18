@@ -3,7 +3,6 @@
   <a href="https://github.com/temitope-apatira"><img src="https://readme-typing-svg.herokuapp.com?lines=📖+Open+University+of+Ho+Chi+Minh+City;🎓+Software+Engineering+Student;🔍+Always%20learning%20new%20things;💻+Coding+is+my+daily+sport;☕+Debugging+is+90%+of+my+life&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Open+University+of+Ho+Chi+Minh+City;🎓+Software+Engineering+Student;💻+Coding+is+my+daily+sport;☕+Debugging+is+90%+of+my+life)](https://git.io/typing-svg)
 
 ---
 
@@ -30,8 +29,11 @@
 ## 🔥 Streak Stats & Languages
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=cadicedit2k5&theme=algolia" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadicedit2k5&layout=compact&theme=algolia" />
+  <img src="https://streak-stats.demolab.com?user=cadicedit2k5&theme=algolia" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadicedit2k5&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 <hr/>
