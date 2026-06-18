@@ -12,8 +12,8 @@
 
 <div align="center" style="max-width: 80%; margin: auto;">
   <p>
-    🔥 <em>A motivated student developer who enjoys turning ideas into working products — 
-    and occasionally breaking things on purpose to learn faster.</em>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" alt="coding gif" />
+    <em>A motivated student developer who enjoys turning ideas into working products — and occasionally breaking things on purpose to learn faster.</em>
   </p>
 
   <!-- Gmail -->
