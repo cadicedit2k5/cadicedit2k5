@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 <h1 align="center">Hi , I'm Linh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/temitope-apatira"><img src="https://readme-typing-svg.herokuapp.com?lines=📖+Open+University+of+Ho+Chi+Minh+City;🎓+Software+Engineering+Student;🔍+Always%20learning%20new%20things;💻+Coding+is+my+daily+sport;☕+Debugging+is+90%+of+my+life&center=true&width=500&height=50"></a>
