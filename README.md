@@ -4,8 +4,6 @@
 </p>
 <hr/>
 
----
-
 <div align="center" style="max-width: 80%; margin: auto;">
   <p>
     🔥 <em>A motivated student developer who enjoys turning ideas into working products — 
@@ -33,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadicedit2k5&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadicedit2k5&exclude_repo=VehicleDetection&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 <hr/>
