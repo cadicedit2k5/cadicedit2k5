@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Open+University+of+Ho+Chi+Minh+City;🎓+Software+Engineering+Student;💻+Coding+is+my+daily+sport;☕+Debugging+is+90%+of+my+life)](https://git.io/typing-svg)
-
----
+<div align="center">
+  <img
+    src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true"
+    height="300"
+  />
+</div>
+<h1 align="center">Hi , I'm Linh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/temitope-apatira"><img src="https://readme-typing-svg.herokuapp.com?lines=📖+Open+University+of+Ho+Chi+Minh+City;🎓+Software+Engineering+Student;🔍+Always%20learning%20new%20things;💻+Coding+is+my+daily+sport;☕+Debugging+is+90%+of+my+life&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
 <div align="center" style="max-width: 80%; margin: auto;">
-
-  <h1>👋 Hi there, I'm <strong>Linh</strong>!</h1>
-
   <p>
-    🔥 <em>A motivated student developer who enjoys turning ideas into working products — 
-    and occasionally breaking things on purpose to learn faster.</em>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" alt="coding gif" />
+    <em>A motivated student developer who enjoys turning ideas into working products — and occasionally breaking things on purpose to learn faster.</em>
   </p>
 
   <!-- Gmail -->
@@ -25,5 +30,16 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🔥 Streak Stats & Languages
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cadicedit2k5&theme=algolia" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadicedit2k5&exclude_repo=VehicleDetection&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+<hr/>
+
 ---
